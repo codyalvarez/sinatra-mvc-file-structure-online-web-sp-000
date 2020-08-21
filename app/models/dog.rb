@@ -5,10 +5,9 @@ class Dog
     @name = name
     @breed = breed
     @age = age
+    @all = all
     # @all < self.all
   end
-
-  # new_dog = Dog.new("name", "breed", "age")
 
   Dog.new("name", "breed", "age")
 
