@@ -7,8 +7,8 @@ class Dog
     @name = name
     @breed = breed
     @age = age
-    @all
-    # @all < self.all
+  l
+    @all < self.all
   end
 
   Dog.new("name", "breed", "age")
