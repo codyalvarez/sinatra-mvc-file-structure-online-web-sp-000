@@ -8,7 +8,9 @@ class Dog
     # @all < self.all
   end
 
-  new_dog = Dog.new("name", "breed", "age")
+  # new_dog = Dog.new("name", "breed", "age")
+
+  Dog.new("name", "breed", "age")
 
 
 end
